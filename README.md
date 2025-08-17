@@ -54,7 +54,7 @@ pip install -r requirements.txt
 - Kelime frekansı bar grafiği (en sık geçen kelimeler)
 - Kelime bulutu (Word Cloud) ile kelimelerin yoğunluk dağılımları
 
-![wordcloud görselleştirmesi](wordcloud.png)
+![wordcloud görselleştirmesi](image.png)
 
 ## Özellikler
 
