@@ -1,0 +1,5 @@
+# Virtual environment folders(Sanal ortam klasorleri)
+venv/
+.env/
+.env*/
+my_nlp_env/
